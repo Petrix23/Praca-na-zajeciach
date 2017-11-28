@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Paweł Tymczyk\Paweł Tymczyk\bin\Debug\Paweł Tymczyk.exe.config
+C:\Users\local\Desktop\Paweł Tymczyk\Paweł Tymczyk\obj\Debug\Paweł Tymczyk.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Paweł Tymczyk\Paweł Tymczyk\bin\Debug\Paweł Tymczyk.exe
+C:\Users\local\Desktop\Paweł Tymczyk\Paweł Tymczyk\bin\Debug\Paweł Tymczyk.pdb
+C:\Users\local\Desktop\Paweł Tymczyk\Paweł Tymczyk\obj\Debug\Paweł Tymczyk.exe
+C:\Users\local\Desktop\Paweł Tymczyk\Paweł Tymczyk\obj\Debug\Paweł Tymczyk.pdb
